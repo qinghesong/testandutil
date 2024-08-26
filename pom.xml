@@ -18,7 +18,7 @@
         <relativePath/>
     </parent>
     <properties>
-        <swagger.version>2.7.0</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <spring-boot.version>2.0.0.RELEASE</spring-boot.version>
     </properties>
     <dependencyManagement>
